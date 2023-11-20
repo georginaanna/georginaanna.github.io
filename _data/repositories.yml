@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - georginaanna
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - georginaanna/sorting-behaviours
+  - georginaanna/Implementing-YOLOv5
+  - georginaanna/MSc-Data-Science-Assesments
+  - georginaanna/DSSAT
+  - georginaanna/Computer-Vision-Repeatability
