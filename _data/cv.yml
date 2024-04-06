@@ -14,29 +14,29 @@
     - title: PhD Economics of Precision Livestock Farming
       institution: Harper Adams University, United Kingdom
       year: 2025
-      description:
-        - Methodology to capture video footage – can be used for researchers and developers to validate their data and presents an easy and affordable video recording system that is fully adaptable.
-        - The development of an automated system for monitoring feeding behaviour at a feed trough and its importance as a welfare assessment tool.
-        - Optimising foraging theory: does it apply to housed Bos taurus fed a total mixed ration?
-        - The development of a feeding behaviour ethogram for practical use Or The detection of feeding behaviours in cattle: implementation of current and future feeding ethograms. 
+     # description:
+     #  - Methodology to capture video footage – can be used for researchers and developers to validate their data and presents an easy and affordable video recording system that is fully adaptable.
+     #  - The development of an automated system for monitoring feeding behaviour at a feed trough and its importance as a welfare assessment tool.
+     #  - Optimising foraging theory: does it apply to housed Bos taurus fed a total mixed ration?
+     #  - The development of a feeding behaviour ethogram for practical use Or The detection of feeding behaviours in cattle: implementation of current and future feeding ethograms. 
     - title: MSc in Data Science for Global Agriculture, Food and Environment. 
       institution: Harper Adams University, United Kingdom
       year: 2021
-      description:
-        - Statistical Analysis for Data Science.
-        - Techniques in Machine Learning and Artificial Intelligence.
-        - Data Visualisation and Analytics.
-        - Big Data and Decision Making- Case Studies.
-        - Experimental Design and Analysis.
-        - Food Sustainability and Ethics.
-        - Agri-food Supply Chain Strategy, Operations and Management.
-        - Agricultural Economics, Policy and Trade. 
+     # description:
+      #  - Statistical Analysis for Data Science.
+      #  - Techniques in Machine Learning and Artificial Intelligence.
+      #  - Data Visualisation and Analytics.
+      #  - Big Data and Decision Making- Case Studies.
+      #  - Experimental Design and Analysis.
+      #  - Food Sustainability and Ethics.
+      #  - Agri-food Supply Chain Strategy, Operations and Management.
+      #  - Agricultural Economics, Policy and Trade. 
     - title: BSc (Hons) Agriculture
       institution: Harper Adams University, United Kingdom
       year: 2020
-      description:
-        - Description 1.
-        - Description 2.
+    #  description:
+    #    - Description 1.
+    #    - Description 2.
 
 - title: Experience
   type: time_table
