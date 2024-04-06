@@ -16,6 +16,8 @@
     - title: Ph.D. in Economica of Prescision Livestock Farming
       institution: Harper Adams University, United Kingdom
       year: 2022 - 2025
+      description:
+      - Elizabeth Creak Fellow
     - title: MSc in Data Science
       institution: Harper Adams University, United Kingdom
       year: 2020 - 2021
@@ -33,34 +35,51 @@
   type: time_table
   contents:
     - title: Data Scientist
-      institution: Massachusetts Institute of Technology
+      institution: Harper Adams University, United Kingdom
       year: 2021 - present
       description:
-        - 2D-to-3D reconstruction
-        - Image quality assessment
-        - 3D pose estimation pipeline for fetal MRI
-    - title: Machine Learning Engineer Intern
-      institution: Instagram Reels Core Ranking @ Meta
-      year: May - Aug 2022
+        - brief
+        - brief
+        - brief
+    - title: Operations Manager
+      institution: Round Oak Electrical Ltd
+      year: 2021 - present
       description:
-        - Mitigated short video bias in Reels
-    - title: Software Engineer Intern
-      institution: Adwords Insights Team @ Google
+        - 
+    - title: placeholder
+      institution: placeholder
       year: Jun - Aug 2021
       description:
-        - Improved keyword classification in search ads
-        - Developed algorithms to detect the cold start of bidding strategies
-    - title: Research Scientist Intern
-      institution: United Imaging Intellignece America
-      year: Jun - Aug 2020
-      description:
-        - Multi-modal image registration with neural ODE
-        - Differentiable Digitally Reconstructed Radiograph (DRR)
-    - title: Research Assistant
-      institution: Stanford University
-      year: Jun - Aug 2017
-      description:
-        - Low dose PET reconstruction with deep learning
+        - misc
+        - misc
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+     - year: 2021
+       items: 
+         - The Harper Adams Club Postgraduate Scholarship 
+     - year: 2020
+       items: 
+         - Clyde Higgs MSc Scholar
+     - year: 2017
+       items: 
+         - Scholarship from the Birmingham and Staffordshire Agricultural Society
+     - year: 2017
+       items: 
+         - Mercer Scholarship
+
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Georgina Wager
+    #- name: Date of Birth
+    #  value: 14th March 1879
+    - name: Email
+      value: georgina [underscore] anna [at] outlook [dot] com
+    - name: Language
+      value: English
 
 # - title: Open Source Projects
 #   type: time_table
@@ -68,17 +87,6 @@
 #     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
 #       year: 2015-now
 #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 1921
-#       items: 
-#         - Nobel Prize in Physics 
-#         - Matteucci Medal
-#     - year: 2029
-#       items: 
-#         - Max Planck Medal
 
 # - title: Academic Interests
 #   type: nested_list
