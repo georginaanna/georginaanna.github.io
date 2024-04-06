@@ -13,7 +13,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. in Economica of Prescision Livestock Farming
+    - title: Ph.D. in Economics of Prescision Livestock Farming
       institution: Harper Adams University, United Kingdom
       year: 2022 - 2025
       description:
@@ -26,15 +26,23 @@
     - title: MSc in Data Science
       institution: Harper Adams University, United Kingdom
       year: 2020 - 2021
-      #description:
-      #  - Description 1.
-      #  - Description 2.
+      description:
+      - Statistical Analysis for Data Science
+      - Techniques in Machine Learning and Artificial Intelligence
+      - Data Visualisation and Analytics
+      - Big Data and Decision Making- Case Studies
+      - Experimental Design and Analysis
+      - Food Sustainability and Ethics
+      - Agri-food Supply Chain Strategy, Operations and Management
+      - Agricultural Economics, Policy and Trade
+
+      - Description 2
     - title: BSc (Hons) in Agriculture
       institution: Harper Adams University, United Kingdom
       year: 2016 - 2020
-      #description:
-      #  - Description 1.
-      #  - Description 2.
+    #  description:
+    #  - Description 1
+    #  - Description 2
 
 - title: Experience
   type: time_table
@@ -48,7 +56,7 @@
       institution: Round Oak Electrical Ltd
       year: 2021 - present
       description:
-        - 
+        - brief
     - title: placeholder
       institution: placeholder
       year: Jun - Aug 2021
@@ -76,11 +84,9 @@
   type: map
   contents:
     - name: 
-      value: Georgina Wager
+      value: Member of the Global Institute for Agri-Tech Economics
     - name:
-      value: georgina [underscore] anna [at] outlook [dot] com
-    - name: 
-      value: English
+      value: Fellow of the Royal Statistics Society (FRSS)
 
 # - title: Open Source Projects
 #   type: time_table
