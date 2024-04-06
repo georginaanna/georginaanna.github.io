@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Harper Adams University and Round Oak Electrical Ltd</a>.
+subtitle: Harper Adams University and Round Oak Electrical Ltd
 
 profile:
   align: right
