@@ -39,8 +39,6 @@
       year: 2021 - present
       description:
         - brief
-        - brief
-        - brief
     - title: Operations Manager
       institution: Round Oak Electrical Ltd
       year: 2021 - present
@@ -69,16 +67,14 @@
        items: 
          - Mercer Scholarship
 
-- title: General Information
+- title: Memberships
   type: map
   contents:
-    - name: Full Name
+    - name: 
       value: Georgina Wager
-    #- name: Date of Birth
-    #  value: 14th March 1879
-    - name: Email
+    - name:
       value: georgina [underscore] anna [at] outlook [dot] com
-    - name: Language
+    - name: 
       value: English
 
 # - title: Open Source Projects
