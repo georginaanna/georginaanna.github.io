@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: people i have had the privilege to work with
+description: people I have had the privilege to work with
 nav: true
 nav_order: 6
 
