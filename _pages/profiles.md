@@ -14,15 +14,17 @@ profiles:
     content: about_ed.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Harper Adams University</p>
   - align: left
     image: prof_pic.jpg
     content: about_matt.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+     <p>Harper Adams University</p>
+  - align: right
+    image: prof_pic.jpg
+    content: about_karl.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+    <p>Harper Adams University</p>
 ---
