@@ -1,1 +1,1 @@
-Karl as the research centre lead of the Global Institute for Agri-Tech Economics focuses on the economics of innovative agricultural technology and digitalisation through the application of interdisciplinary systems based approaches to inform decision making at multiple levels. 
+Karl Behrendt as the research centre lead of the Global Institute for Agri-Tech Economics focuses on the economics of innovative agricultural technology and digitalisation through the application of interdisciplinary systems based approaches to inform decision making at multiple levels. 
