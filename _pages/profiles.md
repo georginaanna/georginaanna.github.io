@@ -10,19 +10,19 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
+    image: ed_harris.jpg
     content: about_ed.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Harper Adams University</p>
   - align: left
-    image: prof_pic.jpg
+    image: Matt.jpg
     content: about_matt.md
     image_circular: false # crops the image to make it circular
     more_info: >
      <p>Harper Adams University</p>
   - align: right
-    image: prof_pic.jpg
+    image: karl.jpg
     content: about_karl.md
     image_circular: false # crops the image to make it circular
     more_info: >
