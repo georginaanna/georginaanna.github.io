@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Submitted the final draft Manuscript for the The 11th European Conference on
+Precision Livestock Farming #fingerscrossed
