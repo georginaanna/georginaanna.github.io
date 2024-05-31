@@ -61,21 +61,17 @@ We slept in this morning and then basically had curry for breakfast at Pommier r
 
 [Kyoto saved places](https://maps.app.goo.gl/AoHZQuVgUMJxGmS66)
 
-### Day 7
+**Day 7**
 
-We left Osaka pretty early as we wanted to make the most of the day.
+We left Osaka pretty early as we wanted to make the most of the day in Kyoto.
 
-- Head to Kyoto (store baggage at Kyoto Station, 700 yen for a big suitcase each per day, pay with Suica card).
-- Bamboo Forest
-- Tenryu-ji (temple)
-- Togetsukyo Bridge
-- Fu-fu-no-yu (Onsen)
-- Yasaka Shrine (at night)
-- Gion District for tea
-- The Hotel Seiryu Kyoto Kiyomizu (rooftop bar for drinks)
+We stored our baggage at Kyoto Station, it was cheap and cheerful, we paid 700 yen for a big suitcase each per day, using our Suica cards).We then headed out for a big day of sight seeing, and another Onsen, mainly because we found the first onso relaxing, as lets not lie, this kind of holiday is not in any way shape or form, a relaxing one. We headed to the Bamboo Forest, followed by Tenryu-ji (temple), we wandered across Togetsukyo Bridge before heading to Fu-fu-no-yu Onsen. 
 
-### Day 8
+We then headed back to our hotel, which  was LUXURIOUS in comparison to the hostel we stayed at previously. Never underestimate a decent matresse. We stayed at 
 
+On the evening we headed to see the Yasaka Shrine and walk around the Gion District, we had drinks on the rooftop bar of The Hotel Seiryu Kyoto Kiyomizu which gave us a beautiful view of the gion district. 
+
+**Day 8**
 - Breakfast in the room, leave at 10 am
 - Fushimi Minato Park
 - Fushimi Inari Taisha (large orange gates)
@@ -85,7 +81,7 @@ We left Osaka pretty early as we wanted to make the most of the day.
 - Check into next place near Omiya Station (Hankyu Kyoto Line) and Shijo-Omiya Station (Keifuku Arashiyama Line), check-in at 3 pm
 - Eat at Gyoza-dokoro Sukemasa Takatsuji Main Shop ぎょうざ処 高辻 亮昌 and relax
 
-### Day 9
+**Day 9**
 
 - Late check-out (11 am)
 - Bus to Nishiki Market
@@ -99,14 +95,14 @@ We left Osaka pretty early as we wanted to make the most of the day.
 
 [Tokyo saved places](https://maps.app.goo.gl/7G43WFRdJpyhTiip9)
 
-### Day 10
+**Day 10**
 
 - Shopping in Ginza Uniqlo
 - Lunch out
 - Mominoki House Ueno Shop, 4-chōme-5-2 Ueno, Taito City, Tokyo for drinks and massage/foot bath
 - Taco restaurant
 
-### Day 11
+**Day 11**
 
 - Leave by 07:30, get coffee/snacks en route (1-hour travel time)
 - TeamLab Planets at 09:30
@@ -116,7 +112,7 @@ We left Osaka pretty early as we wanted to make the most of the day.
 - The Jade Room + Garden Terrace to view the tower at night (35 mins travel time)
 - Shinjuku Golden Gai, 1 Chome-1-6 Kabukicho, Shinjuku City, Tokyo 160-0021, Japan
 
-### Day 12
+**Day 12**
 
 - Nakameguro 中目黒 (for breakfast)
 - Shibuya Sky and Crossing in the day
@@ -124,16 +120,10 @@ We left Osaka pretty early as we wanted to make the most of the day.
 - Meiji Jingu
 - Takeshita Street
 
-### Day 13
+**Last Day**
 
 - HATCOFFE
 - Kappabashi Hondōri Shopping Street 合羽橋本通り商店街
 - Harmonica Yokocho (food stalls)
 - Shimokitazawa 下北沢
 - Shinjuku Gyoen National Garden 新宿御苑
-
-### Home Time
-
-- Head to the airport
-
-## Japan Rail Passes: Should you or shouldn't you?
