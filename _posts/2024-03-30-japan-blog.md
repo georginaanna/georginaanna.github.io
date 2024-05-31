@@ -3,7 +3,7 @@ layout: post
 title: Our Japan Itinerary
 date: 2024-03-30 11:59:00-0400
 description: A plan for visiting three places in Japan
-tags: formatting toc
+tags: osaka kyoto tokyo
 categories: travelling
 giscus_comments: true
 related_posts: false
