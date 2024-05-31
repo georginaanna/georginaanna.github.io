@@ -13,54 +13,57 @@ toc:
 
 ## Osaka
 
+Osaka saved places - https://maps.app.goo.gl/MLjabhYhvf5BPvVG7
+
 **Arrival Day**
 
 We flew with British Airways from London Heathrow and had a beautiful view of the famous Mt Fuji upon entering Japan. After exiting the airport, we headed to the Japan Rail Pass office to get our rail passes. Then, we picked up our welcome Suica cards at the travel card counter, putting about 1000 yen on each card. At the JPR counter, they booked us on the Shinkansen to Osaka. It's important to reserve your spot as it can be quite busy.
 
 Upon arrival, we headed to our hotel, [Osaka Guest House U-En, Osaka](https://www.u-en.jp/?lang=en). This hostel provided a private room that was extremely clean (like everywhere in Japan). We highly recommend it if you're on a budget. We spent £150.00 for 5 nights—this is not a typo.
 
-We then headed to Shitennoji Temple (one of the oldest temples in Japan). Shitennoji is a short walk from Shitennoji-mae Yuhigaoka Station on the Tanimachi Subway Line. Alternatively, it's a ten-minute walk north of Tennoji Station on the JR Osaka Loop Line. Entry fees: 300 yen (inner precinct), 300 yen (garden), 500 yen (treasure house), free for the outside area.
+We then headed to Shitennoji Temple (one of the oldest temples in Japan). Shitennoji was a short walk from Shitennoji-mae Yuhigaoka Station on the Tanimachi Subway Line, but we could have also got the JR Osaka Loop Line (free woith the JR Pass) which would have been a ten-minute walk north of Tennoji Station.
 
-### Day 2
+**Day 2**
+
 Today was a big cultural day for us as we did an Onsen. We were super nervous, we didnt know whether to take our kit of or not, so we hovered around trying to see what others were doing..
 
-Overall, once you realised everyone was butt naked it was totally fine, the view was beautiful (not the nakedness, it geniunly went out onto a beautiful japanese garden. It was split into a boy and girl only areas and the fact no one spoke a word of english, really helped the experience and made it a little less daunting. We went to Solaniwa Onsen and found the whole experience relaxing. We got there via riding the Osaka Loop Line from Fukushima Station to Bentencho Station. We prenbooked our tickets on booking.com
+Overall, once you realised everyone was butt naked it was totally fine, the view was beautiful (not the nakedness, it geniunly went out onto a beautiful japanese garden. It was split into a boy and girl only areas and the fact no one spoke a word of english, really helped the experience and made it a little less daunting. We went to Solaniwa Onsen and found the whole experience relaxing. We got there via riding the Osaka Loop Line from Fukushima Station to Bentencho Station. We prenbooked our tickets on booking.com. The day was concluded with a beautiful walk round the teamLab Botanical Garden Osaka. 
+
+**Day 3**
+Today we explored the american mura, Dotombori in the day, Doguyasuji Arcade, Namba Marui and Shinsaibashi-suji Shopping Arcade. 
+
+We had food at the Katsudon Chiyomatsu | Dotonbori Main Store resturant, we had heard that it was the best katsudon in Osaka, we heard correctly, we qued for ages but oh my, it was good. 
+
+Doguyasuji Arcade is Osaka’s kitchen and restaurant supply street, you name it, they have it. We got some gorgeous gifts to bring home. Namba Marui (shopping mall) was nice, but we didnt see anything that made us think WOW. 
+  
+**Day 4**
+
+We ventured to 
+ Nara Deer Park: The trip from Osaka is covered by the JR Pass. Take the Yamatoji Line from either JR Osaka Station or Tennoji Station to JR Nara Station. The trip takes 30 to 45 minutes one-way, depending on the departing station. The Nara Deer Park is open 24 hours a day. Admission is free, but you will most likely wish to purchase deer crackers during your visit. A pack of ten crackers costs 150 yen.
+- Tobita Shinchi “red light district” evening 5pm onwards. Ride the OLL from Fukushima Station to Shin Imamiya Station, then walk 16 minutes to the red-light district and bar call me tell me. 
 
 
-- teamLab Botanical Garden Osaka: 18:45 – 20:30. Ride the OLL from Fukushima Station to Shin-Imamiya Station, then walk 15 minutes to Tennoji Station, and travel the Hanwa Line to Tsurugaoka Station, then walk the remaining way.
-
-### Day 3
-- American Mura: Ride the OLL from Fukushima Station to Imamiya Station, then take the Yamatoji Line to JR Namba Station, then walk 10 minutes.
-- Nara Deer Park: The trip from Osaka is covered by the JR Pass. Take the Yamatoji Line from either JR Osaka Station or Tennoji Station to JR Nara Station. The trip takes 30 to 45 minutes one-way, depending on the departing station. The Nara Deer Park is open 24 hours a day. Admission is free, but you will most likely wish to purchase deer crackers during your visit. A pack of ten crackers costs 150 yen.
-- Tobita Shinchi “red light district” evening 5pm onwards. Ride the OLL from Fukushima Station to Shin Imamiya Station, then walk 16 minutes to the red-light district.
-
-### Day 4
 - Dotombori: For colors, crowds, and consumerism, you can’t beat Dotombori, Osaka’s most popular shopping, entertainment, nightlife, and culinary destination. If you’re visiting the city, you shouldn’t miss this place. Subway and Train: 2-minute walk from exit 14 of Namba Station.
 - Hozenji Yokocho: A beautiful alley in Osaka with more than 60 traditional and restored shops and restaurants, Hozenji Yokocho looks like it was transported from Kyoto. Entering this street is like slipping 200 years back in time, especially when it is lit by lanterns in the evening. The street is named for Hozen-ji Temple, which is home to the fascinating Mizu-kake Fudo, an image of the Buddhist deity Fudo, the kami of fury. Covered in a lush coat of moss, this is an unusual and beautiful sight not to be missed.
-- Doguyasuji Arcade: About five minutes’ walk southeast of Namba subway station (easily reached on foot from Dotombori), the covered shopping arcade known as Doguyasuji is Osaka’s kitchen and restaurant supply street. Here, you’ll find bizarre plastic food samples to bring home as quirky gifts, or proper Japanese cooking knives, lacquer bowls, or pairs of chopsticks.
-- Shinsaibashi-suji Shopping Arcade: This covered shopping arcade is the quintessential “shotengai” or covered shopping arcade. It runs parallel to and one block east of Midosuji. Even if you don’t intend to shop, it’s worth walking along this street to see the incredible cast of Osaka characters who prowl this place.
-- Shochikuza (kabuki theater): Osaka’s main kabuki theatre is worth checking out for fans of traditional theatre. Even if you don’t stay for the full program, one act of kabuki is enough to transport you to another world. Stop by the box office to see if anything is on while you are there.
-- Amerika Mura (trendy district): Located on the west side of Midosuji, just north of the Dotombori Canal. This is a warren of narrow streets lined with shops that mostly appeal to 20-something fashionistas and fashion-victims, with a strong tilt toward urban apparel and hip hop wear. It’s a fun place to wander, with plenty of bars and restaurants in the area, most of which are welcoming to foreigners.
-- Den-Den Town (electronics shopping district): Osaka’s answer to Tokyo’s Akihabara, Den-Den is the city’s electronics, camera, computer, and pop culture shopping neighborhood. It’s about 10 minutes’ walk southwest of Namba Station, in Nippombashi, running roughly between Nippombashi and Ebisucho stations on the Sakaisuji subway line. Many of the shops have someone on hand who can speak English, so don’t be afraid to ask for help.
-- Namba Marui (shopping mall): One of the main shopping malls in the Minami District of Osaka, this vast department store/shopping mall is one of the best one-stop shopping destinations in the city.
-- Place to eat: Akari Soba - Looking for an escape from Dotombori's relentless crowds? Akari is a charming, homey soba shop that will whisk you away to a calmer, quieter world with some delicious soba and tempura.
 
-### Day 5 Hiroshima Day Trip
+**Day 5 Hiroshima Day Trip**
 - Travel time: Between 1 hour and 30 minutes to 3 hours
 - Cost: Covered by JR Pass
 - The Sanyo Shinkansen Line provides fast and convenient access between Osaka and Hiroshima. Its Sakura and Hikari trains can take you from Shin-Osaka Station in Osaka to Hiroshima Station in about an hour and a half, and its Kodama trains take about 2 hours and a half. With your JR Pass, you can board any of the three trains without extra fees.
 - Atomic Bomb Dome
 - Peace Memorial Park – Hiroshima
 - Hiroshima is a dynamic city with many attractions besides the atomic bomb memorials. Popular attractions include Hiroshima Castle (Carp Castle) and Shukkeien Garden. It’s also fun to walk around, shop, and sample local cuisine.
+- Local Ramen - Ressishoyu Menkobo Sanku onlky a few minute walk from where we were staying and oh my it was DELICIOUS. 
 
 ### Day 6
 - Osaka Castle: Head to Osaka Castle at 8:30 am. Leave Osaka Castle by 10:30 am.
 - Pommier restaurant for lunch at 11:30 am.
-- Den-Den Town (30 mins - electronics).
-- Nara Deer Park: Arrive by 2:30 pm (51 mins travel time).
+-  Den-Den Town (electronics shopping district): Osaka’s answer to Tokyo’s Akihabara, Den-Den is the city’s electronics, camera, computer, and pop culture shopping neighborhood. It’s about 10 minutes’ walk southwest of Namba Station, in Nippombashi, running roughly between Nippombashi and Ebisucho stations on the Sakaisuji subway line. Many of the shops have someone on hand who can speak English, so don’t be afraid to ask for help.
 - Relax and then head to Dotombori for food (cheese coin, meat sticks, octopus balls).
 
 ## Kyoto
+
+Kyoto saved places https://maps.app.goo.gl/AoHZQuVgUMJxGmS66 
 
 ### Day 7
 - Head to Kyoto (store baggage at Kyoto station, 700 yen for big suitcase each per day, pay with Suica card).
@@ -92,6 +95,8 @@ Overall, once you realised everyone was butt naked it was totally fine, the view
 - Big Echo Karaoke
 
 ## Tokyo
+
+Tokyo saved places https://maps.app.goo.gl/7G43WFRdJpyhTiip9
 
 ### Day 10
 - Shopping in Ginza Uniqlo
