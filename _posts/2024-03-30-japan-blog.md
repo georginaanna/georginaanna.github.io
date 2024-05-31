@@ -13,7 +13,7 @@ toc:
 
 ## Osaka
 
-### Arrival Day
+**Arrival Day**
 We flew with British Airways from London Heathrow and had a beautiful view of the famous Mt Fuji upon entering Japan. After exiting the airport, we headed to the Japan Rail Pass office to get our rail passes. Then, we picked up our welcome Suica cards at the travel card counter, putting about 1000 yen on each card. At the JPR counter, they booked us on the Shinkansen to Osaka. It's important to reserve your spot as it can be quite busy.
 
 Upon arrival, we headed to our hotel, [Osaka Guest House U-En, Osaka](https://www.u-en.jp/?lang=en). This hostel provided a private room that was extremely clean (like everywhere in Japan). We highly recommend it if you're on a budget. We spent £150.00 for 5 nights—this is not a typo.
