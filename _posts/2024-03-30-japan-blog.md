@@ -18,11 +18,14 @@ We flew with British Airways from London Heathrow and had a beautiful view of th
 
 Upon arrival, we headed to our hotel, <a href="[url](https://www.u-en.jp/?lang=en)">Osaka Guest House U-En, Osaka, Fukushima-ku Fukushima 2-9-23</a> This hostel provided a private room that was extremely clean (like everywhere in Japan). We highly recommend it if you're on a budget. We spent £150.00 for 5 nights—this is not a typo.
 
+We then headed to Shitennoji Temple (one of the oldest temples in Japan). Shitennoji is a short walk from Shitennoji-mae Yuhigaoka Station on the Tanimachi Subway Line. Alternatively, it's a ten-minute walk north of Tennoji Station on the JR Osaka Loop Line. Entry fees: 300 yen (inner precinct), 300 yen (garden), 500 yen (treasure house), free for the outside area.
+
 ### Day 2
-- Check into the hotel (store bags)
-- Visit Shitennoji Temple (one of the oldest temples in Japan). Shitennoji is a short walk from Shitennoji-mae Yuhigaoka Station on the Tanimachi Subway Line. Alternatively, it's a ten-minute walk north of Tennoji Station on the JR Osaka Loop Line. Entry fees: 300 yen (inner precinct), 300 yen (garden), 500 yen (treasure house), free for the outside area.
-- Nearby flea market/street food
-- Solaniwa Onsen: Ride the Osaka Loop Line from Fukushima Station to Bentencho Station. Operational hours: 11:00–22:00.
+Today was a big cultural day for us as we did an Onsen. We were super nervous, we didnt know whether to take our kit of or not, so we hovered around trying to see what others were doing..
+
+Overall, once you realised everyone was butt naked it was totally fine, the view was beautiful (not the nakedness, it geniunly went out onto a beautiful japanese garden. It was split into a boy and girl only areas and the fact no one spoke a word of english, really helped the experience and made it a little less daunting. We went to Solaniwa Onsen and found the whole experience relaxing. We got there via riding the Osaka Loop Line from Fukushima Station to Bentencho Station. We prenbooked our tickets on booking.com
+
+
 - teamLab Botanical Garden Osaka: 18:45 – 20:30. Ride the OLL from Fukushima Station to Shin-Imamiya Station, then walk 15 minutes to Tennoji Station, and travel the Hanwa Line to Tsurugaoka Station, then walk the remaining way.
 
 ### Day 3
