@@ -7,7 +7,6 @@ tags: formatting images
 categories: sample-posts
 thumbnail: assets/img/9.jpg
 images:
-  compare: true
   slider: true
 ---
 
