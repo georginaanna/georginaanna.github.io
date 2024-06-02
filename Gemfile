@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+bundle config set frozen false
 group :jekyll_plugins do
     gem 'classifier-reborn'
     gem 'jekyll'
