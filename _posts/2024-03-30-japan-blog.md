@@ -14,23 +14,6 @@ images:
   slider: true
 ---
 
-
-<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/9.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/7.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/8.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/10.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/12.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-</swiper-container>
-
-<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/pommier.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/barcallmetellme.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/pancake.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/bean-paste.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/starbucks-treats.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-</swiper-container>
-
 Please note only food places that we LOVED have been listed in here. 
 
 ## Osaka
@@ -61,6 +44,15 @@ Doguyasuji Arcade is Osaka’s kitchen and restaurant supply street. You name it
 
 We had food at the Katsudon Chiyomatsu | Dotonbori Main Store restaurant. We had heard that it was the best katsudon in Osaka, and we heard correctly. We queued for ages, but oh my, it was good.
 
+
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/pommier.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/barcallmetellme.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/pancake.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/bean-paste.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/starbucks-treats.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+</swiper-container>
+
 **Day 4**
 
 We ventured to Nara Deer Park for a little day trip. It was cute, and we probably spent about two hours there. The trip from Osaka is covered by the JR Pass. The trip takes 30 to 45 minutes one way, depending on the departing station. The Nara Deer Park is open 24 hours a day. Admission is free.
@@ -90,6 +82,16 @@ We stored our baggage at Kyoto Station, it was cheap and cheerful, we paid 700 y
 We then headed back to our hotel, which  was LUXURIOUS in comparison to the hostel we stayed at previously. Never underestimate a decent matresse. We stayed at 
 
 On the evening we headed to see the Yasaka Shrine and walk around the Gion District, we had drinks on the rooftop bar of The Hotel Seiryu Kyoto Kiyomizu which gave us a beautiful view of the gion district. 
+
+
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/pommier.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/barcallmetellme.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/pancake.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/bean-paste.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/starbucks-treats.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+</swiper-container>
+
 
 **Day 8**
 - Breakfast in the room, leave at 10 am
@@ -139,6 +141,14 @@ On the evening we headed to see the Yasaka Shrine and walk around the Gion Distr
 - Yoyogi Park
 - Meiji Jingu
 - Takeshita Street
+
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/pommier.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/barcallmetellme.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/pancake.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/bean-paste.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/starbucks-treats.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+</swiper-container>
 
 **Last Day**
 
