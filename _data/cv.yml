@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Georgina Wager
-    #- name: Date of Birth
-    #  value: 14th March 1879
+    - name: Date of Birth
+      value: 3rd March 1998
     - name: Email
       value: georgina [underscore] anna [at] outlook [dot] com
     - name: Language
