@@ -1,10 +1,15 @@
-name: Sync from template
+name: repo-sync
+
 on:
-  # cronjob trigger
-  schedule:
-    - cron: "0 0 1 * *"
-  # manual trigger
-  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+  pull-requests: write
+  workflows: write   # <--- crucial for updating .github/workflows/ files
+
 jobs:
   repo-sync:
     runs-on: ubuntu-latest
