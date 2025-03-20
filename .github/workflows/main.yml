@@ -1,22 +1,21 @@
-name: repo-sync
-
+name: Sync from template
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: "0 0 1 * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
   pull-requests: write
-  workflows: write   # <--- crucial for updating .github/workflows/ files
+  workflows: write   # <-- This is crucial to allow pushing workflow files
 
 jobs:
   repo-sync:
     runs-on: ubuntu-latest
     steps:
-      # To use this repository's private action, you must check out the repository
       - name: Checkout
         uses: actions/checkout@v4
+
       - name: actions-template-sync
         uses: AndreasAugustin/actions-template-sync@v1
         with:
