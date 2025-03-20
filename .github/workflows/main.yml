@@ -7,8 +7,7 @@ on:
 permissions:
   contents: write
   pull-requests: write
-  workflows: write   # <-- This is crucial to allow pushing workflow files
-
+  
 jobs:
   repo-sync:
     runs-on: ubuntu-latest
