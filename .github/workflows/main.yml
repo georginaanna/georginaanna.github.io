@@ -10,7 +10,10 @@ jobs:
 
     # Remove all default token permissions so that GitHub won't provide GITHUB_TOKEN at all.
     # This ensures that the only token we have is your PAT.
-    permissions: {}
+  permissions: {}
+  env:
+    GITHUB_TOKEN: ${{ secrets.PAT_SYNC }}
+
     
     steps:
       - name: Check out the repo
