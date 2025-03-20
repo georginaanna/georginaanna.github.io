@@ -7,14 +7,22 @@ on:
 jobs:
   repo-sync:
     runs-on: ubuntu-latest
+
+    # This removes or reduces default token's permissions, so there's no conflict
+    permissions:
+      contents: none
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
       - name: actions-template-sync
         uses: AndreasAugustin/actions-template-sync@v1
+        env:
+          # Force the environment variable GITHUB_TOKEN to be your PAT
+          GITHUB_TOKEN: ${{ secrets.PAT_SYNC }}
         with:
-          # Use PAT instead of GITHUB_TOKEN
+          # Also set the "github_token" input (some actions do use it directly)
           github_token: ${{ secrets.PAT_SYNC }}
           source_repo_path: alshedivat/al-folio
           upstream_branch: master
